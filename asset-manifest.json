@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Slavska/goit-react-hw-01-components/static/css/main.68b83466.css",
+    "main.css": "/Slavska/goit-react-hw-01-components/static/css/main.f3f72bb5.css",
     "main.js": "/Slavska/goit-react-hw-01-components/static/js/main.d941166f.js",
     "index.html": "/Slavska/goit-react-hw-01-components/index.html",
-    "main.68b83466.css.map": "/Slavska/goit-react-hw-01-components/static/css/main.68b83466.css.map",
+    "main.f3f72bb5.css.map": "/Slavska/goit-react-hw-01-components/static/css/main.f3f72bb5.css.map",
     "main.d941166f.js.map": "/Slavska/goit-react-hw-01-components/static/js/main.d941166f.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b83466.css",
+    "static/css/main.f3f72bb5.css",
     "static/js/main.d941166f.js"
   ]
 }
